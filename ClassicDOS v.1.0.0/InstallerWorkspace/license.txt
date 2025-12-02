@@ -1,0 +1,16 @@
+====================================================
+ClassicDOS v1.0.0 License Agreement
+====================================================
+
+This software is a retro-inspired artifact.
+To continue installation, you must agree to the following:
+
+- ClassicDOS requires a product key:
+  CLASSIC-77BBM-XX430-9999-BBMSA
+
+- After 3 failed attempts, the system locks until restart.
+
+- Always launch SHELL.BAT to access commands.
+
+By clicking "I Agree", you acknowledge that ClassicDOS
+is a fictional operating system and accept its absurd standards.
