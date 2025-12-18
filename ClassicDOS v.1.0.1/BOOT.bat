@@ -1,7 +1,7 @@
 @echo off
 title ClassicDOS Boot Sequence
 echo ============================================
-echo   ClassicDOS v1.0.0 - Boot Module
+echo   ClassicDOS v1.0.1 - Boot Module
 echo ============================================
 echo.
 color 1F
@@ -75,3 +75,4 @@ if %errorlevel%==0 (
     exit /b
 
 )
+
